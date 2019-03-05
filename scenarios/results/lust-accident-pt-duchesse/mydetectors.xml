@@ -1,0 +1,172 @@
+
+<additional>
+
+<!-- Konrad Adenauer -->
+<inductionLoop id="1_W_0" lane="-31070#3_0" pos="170" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="1_W_1" lane="-31070#3_1" pos="170" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="1_E_0" lane="--31070#3_0" pos="190" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="1_E_1" lane="--31070#3_1" pos="190" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Avenue JFK -->
+<inductionLoop id="2_W_0" lane="-32278#4_0" pos="275" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="2_W_1" lane="-32278#4_1" pos="275" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="2_W_2" lane="-32278#4_2" pos="275" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="2_W_3" lane="-32278#4_3" pos="275" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="2_E_0" lane="--32278#4_0" pos="260" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="2_E_1" lane="--32278#4_1" pos="260" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="2_E_2" lane="--32278#4_2" pos="260" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="2_E_3" lane="--32278#4_3" pos="260" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- EU Court of Justice -->
+<inductionLoop id="3_W_0" lane="-31070#9_0" pos="160" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="3_W_1" lane="-31070#9_1" pos="160" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="3_E_0" lane="--31070#9_0" pos="355" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="3_E_1" lane="--31070#9_1" pos="355" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Philarmonie -->
+<inductionLoop id="4_W_0" lane="-32278#6_0" pos="570" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="4_W_1" lane="-32278#6_1" pos="570" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="4_W_2" lane="-32278#6_2" pos="570" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="4_W_3" lane="-32278#6_3" pos="570" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="4_E_0" lane="--32278#6_0" pos="415" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="4_E_1" lane="--32278#6_1" pos="415" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="4_E_2" lane="--32278#6_2" pos="415" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="4_E_3" lane="--32278#6_3" pos="415" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Pont de la duschesse -->
+<inductionLoop id="5_W_0" lane="--30620_0" pos="550" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="5_W_1" lane="--30620_1" pos="550" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="5_W_2" lane="--30620_2" pos="550" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="5_E_0" lane="-30620_0" pos="350" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="5_E_1" lane="-30620_1" pos="350" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="5_E_2" lane="-30620_2" pos="350" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Foire -->
+<inductionLoop id="6_W_0" lane="-31504#0_0" pos="70" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="6_W_1" lane="-31504#0_1" pos="70" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="6_W_2" lane="-31504#0_2" pos="70" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="6_E_0" lane="--31504#0_0" pos="55" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="6_E_1" lane="--31504#0_1" pos="55" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="6_E_2" lane="--31504#0_2" pos="55" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Pescatore -->
+<inductionLoop id="7_W_0" lane="-31068#1_0" pos="85" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="7_W_1" lane="-31068#1_1" pos="85" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="7_W_2" lane="-31068#1_2" pos="85" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="7_E_0" lane="--31068#1_0" pos="170" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="7_E_1" lane="--31068#1_1" pos="170" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="7_E_2" lane="--31068#1_2" pos="170" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Hamilius -->
+<inductionLoop id="8_W_0" lane="--30528#4_0" pos="50" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="8_W_1" lane="--30528#4_1" pos="50" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="8_W_2" lane="--30528#4_2" pos="50" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="8_E_0" lane="-30528#4_0" pos="120" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="8_E_1" lane="-30528#4_1" pos="120" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="8_E_2" lane="-30528#4_2" pos="120" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Place Winston Churchill -->
+<inductionLoop id="9_W_0" lane="--30892#3_0" pos="25" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="9_W_1" lane="--30892#3_1" pos="25" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="9_W_2" lane="--30892#3_2" pos="25" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="9_E_0" lane="-30892#3_0" pos="25" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="9_E_1" lane="-30892#3_1" pos="25" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="9_E_2" lane="-30892#3_2" pos="25" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Route d'arlon -->
+<inductionLoop id="10_W_0" lane="-31940#3_0" pos="190" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="10_W_1" lane="-31940#3_1" pos="190" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="10_W_2" lane="-31940#3_2" pos="190" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="10_E_0" lane="--31940#3_0" pos="205" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="10_E_1" lane="--31940#3_1" pos="205" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="10_E_2" lane="--31940#3_2" pos="205" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Place de France -->
+<inductionLoop id="11_W_0" lane="--31496#14_0" pos="115" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="11_W_1" lane="--31496#14_1" pos="115" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="11_W_2" lane="--31496#14_2" pos="115" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="11_E_0" lane="-31496#14_0" pos="30" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="11_E_1" lane="-31496#14_1" pos="30" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="11_E_2" lane="-31496#14_2" pos="30" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- route d'Esch -->
+<inductionLoop id="12_W_0" lane="--30892#11_0" pos="100" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="12_W_1" lane="--30892#11_1" pos="100" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="12_W_2" lane="--30892#11_2" pos="100" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="12_E_0" lane="-30892#11_0" pos="100" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="12_E_1" lane="-30892#11_1" pos="100" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="12_E_2" lane="-30892#11_2" pos="100" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Avenue de la Liberté -->
+<inductionLoop id="13_W_0" lane="--30528#10_0" pos="60" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="13_W_1" lane="--30528#10_1" pos="60" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="13_W_2" lane="--30528#10_2" pos="60" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="13_E_0" lane="-30528#10_0" pos="30" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="13_E_1" lane="-30528#10_1" pos="30" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="13_E_2" lane="-30528#10_2" pos="30" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Route de Thionville -->
+<inductionLoop id="14_W_0" lane="-31818#9_0" pos="1620" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="14_W_1" lane="-31818#9_1" pos="1620" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="14_E_0" lane="--31818#9_0" pos="107" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="14_E_1" lane="--31818#9_1" pos="107" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+
+<!-- Route de Thionville -->
+<inductionLoop id="15_W_0" lane="--30528#21_0" pos="135" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="15_W_1" lane="--30528#21_1" pos="135" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="15_W_2" lane="--30528#21_2" pos="135" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="15_E_0" lane="-30528#21_0" pos="335" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="15_E_1" lane="-30528#21_1" pos="335" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="15_E_2" lane="-30528#21_2" pos="335" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Gasperich -->
+<inductionLoop id="16_W_0" lane="-30892#25_0" pos="140" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="16_W_1" lane="-30892#25_1" pos="140" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="16_W_2" lane="-30892#25_2" pos="140" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="16_E_0" lane="--30892#25_0" pos="190" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="16_E_1" lane="--30892#25_1" pos="190" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="16_E_2" lane="--30892#25_2" pos="190" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- A4 -->
+<inductionLoop id="17_W_0" lane="-32858#1_0" pos="245" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="17_W_1" lane="-32858#1_1" pos="245" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="17_W_2" lane="-32858#1_2" pos="245" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="17_E_0" lane="-32454#1_0" pos="960" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="17_E_1" lane="-32454#1_1" pos="960" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="17_E_2" lane="-32454#1_2" pos="960" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Neudrof -->
+<inductionLoop id="18_W_0" lane="-32674#4_0" pos="150" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="18_W_1" lane="-32674#4_1" pos="150" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="18_W_2" lane="-32674#4_2" pos="150" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="18_E_0" lane="--32674#4_0" pos="1440" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="18_E_1" lane="--32674#4_1" pos="1440" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="18_E_2" lane="--32674#4_2" pos="1440" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+
+<!-- rue de Trèves -->
+<inductionLoop id="19_W_0" lane="--30856#5_0" pos="165" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="19_W_1" lane="--30856#5_1" pos="165" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="19_W_2" lane="--30856#5_2" pos="165" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="19_E_0" lane="-30856#5_0" pos="135" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="19_E_1" lane="-30856#5_1" pos="135" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="19_E_2" lane="-30856#5_2" pos="135" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- val de Hamm -->
+<inductionLoop id="20_W_0" lane="-30608#2_0" pos="870" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="20_W_1" lane="-30608#2_1" pos="870" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="20_W_2" lane="-30608#2_2" pos="870" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="20_E_0" lane="--30608#2_0" pos="310" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="20_E_1" lane="--30608#2_1" pos="310" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="20_E_2" lane="--30608#2_2" pos="310" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+<!-- Rue de Hamm -->
+<inductionLoop id="21_W_0" lane="-32432#7_0" pos="205" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="21_W_1" lane="-32432#7_1" pos="205" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="21_E_0" lane="--32432#7_0" pos="146" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+<inductionLoop id="21_E_1" lane="--32432#7_1" pos="146" freq="300" file="lust.accident-pt-duchesse.out.xml"/>
+
+
+
+</additional>

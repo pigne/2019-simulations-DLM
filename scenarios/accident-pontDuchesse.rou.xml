@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+
+
+
+    <vehicle id="accident:0" type="accident" depart="27000" departPos="0" departSpeed="10.00" arrivalPos="random" arrivalSpeed="10.00">
+        <route edges="-32278#6 --30620 -31504#0">
+            <stop lane="--30620_0" endPos="210" duration="1800"/>
+        </route>
+    </vehicle>
+
+    <vehicle id="accident:1" type="accident" depart="27000" departPos="0" departSpeed="10.00" arrivalPos="random" arrivalSpeed="10.00">
+        <route edges="-32278#6 --30620 -31504#0">
+            <stop lane="--30620_1" endPos="210" duration="1800"/>
+        </route>
+    </vehicle>
+    <vehicle id="accident:2" type="accident" depart="27000" departPos="0" departSpeed="10.00" arrivalPos="random" arrivalSpeed="10.00">
+        <route edges="-32278#6 --30620 -31504#0">
+            <stop lane="--30620_2" endPos="210" duration="1800"/>
+        </route>
+    </vehicle>
+
+
+<!--  -->
+
+    <vehicle id="accident:3" type="accident" depart="27000" departPos="0" departSpeed="10.00" arrivalPos="random" arrivalSpeed="10.00">
+        <route edges="--31504#0 -30620 --32278#6">
+            <stop lane="-30620_0" endPos="695" duration="1800"/>
+        </route>
+    </vehicle>
+
+    <vehicle id="accident:4" type="accident" depart="27000" departPos="0" departSpeed="10.00" arrivalPos="random" arrivalSpeed="10.00">
+        <route edges="--31504#0 -30620 --32278#6">
+            <stop lane="-30620_1" endPos="695" duration="1800"/>
+        </route>
+    </vehicle>
+    <vehicle id="accident:5" type="accident" depart="27000" departPos="0" departSpeed="10.00" arrivalPos="random" arrivalSpeed="10.00">
+        <route edges="--31504#0 -30620 --32278#6">
+            <stop lane="-30620_2" endPos="695" duration="1800"/>
+        </route>
+    </vehicle>
+
+
+
+
+</routes>

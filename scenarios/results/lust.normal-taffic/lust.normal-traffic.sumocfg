@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo-sim.org/xsd/sumoConfiguration.xsd">
+
+    <gui-settings-file value="../../gui-settings.cfg"/>
+
+    <input>
+        <net-file value="../../../LuSTScenario/scenario/LuSTScenario.net.xml"/>
+        <route-files value="../../../LuSTScenario/scenario/LuSTScenario.busLines.rou.xml ../../../LuSTScenario/scenario/DUARoutes/LuSTScenario.local.mobility.28800.rou.xml ../../../LuSTScenario/scenario/DUARoutes/LuSTScenario.local.mobility.57600.rou.xml ../../../LuSTScenario/scenario/LuSTScenario.transit.mobility.rou.xml"/>
+        <additional-files value="../../vehicles.vtypes.add.xml ../../../LuSTScenario/scenario/LuSTScenario.busStops.xml mydetectors.xml"/>
+    </input>
+
+    <output>
+        <summary-output value="lust.normal-traffic.summary.xml"/>
+        <tripinfo-output value="lust.normal-traffic.tripinfo.xml"/>
+    </output>
+
+    <time>
+        <begin value="18000"/>
+        <step-length value="1"/>
+        <end value="32400" h="9"/>
+
+    </time>
+
+    <processing>
+        <ignore-junction-blocker value="20"/>
+        <time-to-teleport value="600"/>
+        <max-depart-delay value="600"/>
+        <routing-algorithm value="dijkstra"/>
+    </processing>
+
+    <routing>
+        <device.rerouting.threads value="3" />
+        <device.rerouting.probability value="0.70"/>
+        <device.rerouting.period value="300"/>
+        <device.rerouting.pre-period value="300"/>
+    </routing>
+
+    <report>
+        <verbose value="true"/>
+        <log value="lust.normal-traffic.log"/>
+    </report>
+
+</configuration>
